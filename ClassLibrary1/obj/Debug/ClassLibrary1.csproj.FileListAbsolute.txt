@@ -1,0 +1,5 @@
+c:\users\aabregu\documents\visual studio 2013\Projects\Solucion 1 test TDD\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\aabregu\documents\visual studio 2013\Projects\Solucion 1 test TDD\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\aabregu\documents\visual studio 2013\Projects\Solucion 1 test TDD\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+c:\users\aabregu\documents\visual studio 2013\Projects\Solucion 1 test TDD\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\aabregu\documents\visual studio 2013\Projects\Solucion 1 test TDD\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
