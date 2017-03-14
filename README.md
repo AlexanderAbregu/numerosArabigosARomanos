@@ -1,2 +1,3 @@
 # numerosArabigosARomanos
-Solo están hechos los tests unitarios por ahora no ejecuta nada
+Fue hecho para practicar sobre test unitarios. 
+No ejecuta nada pero funciona todo.
